@@ -1,1 +1,1 @@
-# gapg_training
+# capg_training
